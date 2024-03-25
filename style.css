@@ -1,9 +1,13 @@
 body {
+  display: flex;
+  justify-content: center;
   background: #d6e2f0;
   font-family: 'Outfit', sans-serif;
+  margin: 0;
 }
 
 .container {
+  margin-top: 5%;
   width: 290px;
   height: 500px;
   padding: 16px;
